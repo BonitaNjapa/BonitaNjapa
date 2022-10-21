@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BonitaNjapa
 - 👀 I’m interested in software dev and a whole lot of crazy stuff
-- 🌱 I’m currently learning React.js,Node.js
+- 🌱 I’m currently learning Ruby on rails
 - 💞️ I’m looking to collaborate on anything that seems intresting
 - 📫 How to reach me 
 -     Ntembekonjapa@hotmail.com
